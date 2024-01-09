@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Rachcha</h1>
-<h3 align="center">Aspiring Full Stack developer</h3>
+<h3 align="center">Full Stack developer</h3>
 
 - 📫 How to reach me **anishrachcha@gmail.com**
 
